@@ -1,0 +1,48 @@
+{
+	"storyName": "flip week :::::::]",
+	"hideFreeplay": false,
+	"weekBackground": "flipp_house-lol",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"flip flop",
+			"icon-FLIPP-LOL",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"flippin' out",
+			"icon-flipp-lol",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"flipster",
+			"flipster",
+			[
+				95,
+				0,
+				155
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"menyou-lol",
+		"bf",
+		"gf"
+	],
+	"weekName": "flep"
+}

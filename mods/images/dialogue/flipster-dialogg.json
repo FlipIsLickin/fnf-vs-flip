@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-110,
+		-140
+	],
+	"scale": 0.599999999999999,
+	"animations": [
+		{
+			"loop_name": "FLIPSTER-DIALOGG TLK",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLIPSTER-DIALOGG TLK0002",
+			"anim": "tlk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FLIPSTER-DIALOGG HA",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLIPSTER-DIALOGG HA0002",
+			"anim": "ha",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FLIPSTER-DIALOGG DED",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLIPSTER-DIALOGG DED0002",
+			"anim": "ded",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "FLIPSTER-DIALOGG"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-170
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "flipsturr left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "flipsturr down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-170
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "flipsturr up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-170
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "flipsturr right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-170
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "flipsturr idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flipster",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "FLIPSTER",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		140
+	],
+	"camera_position": [
+		-200,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

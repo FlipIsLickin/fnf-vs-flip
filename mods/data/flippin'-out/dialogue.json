@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "lol",
+			"text": "Poggerina!",
+			"boxState": "normal",
+			"portrait": "flipp-dialogg-lol",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "WOAH! HOW DID YOU GET THE 5 KEY DIFICULTY ???????????????? edit: you wont know what im talking about if you didnt choose the normal and hard dificulty.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lol",
+			"text": "I killed one of the weakest shaggys :3",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flipp-dialogg-lol"
+		},
+		{
+			"expression": "shocked",
+			"text": "oh...",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "well lmao lets do another one and another one and another one and another one and another one and another one and another one and another one and another one and another one and another one one anohter one and another one and another one",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "rap battle.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "pwes.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "if i do it then can i get my pizza? bcos like i really need to make my new recipe called Tizza which is takis and pizza mixxed togethr.",
+			"boxState": "normal",
+			"portrait": "flipp-dialogg-lol",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "y- ye-",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0
+		},
+		{
+			"expression": "excited",
+			"text": "Yes sure ye i got me pizza for thur reward!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Oh my goodness... What if this guy gets mad and turns scawie if he doesnt get no pizza, because i know bf aint got no pizza...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		}
+	]
+}

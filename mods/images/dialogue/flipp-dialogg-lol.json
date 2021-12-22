@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-50,
+		-120
+	],
+	"scale": 0.75,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "fLIPP-DIALOGG-LOL tLK",
+			"idle_name": "fLIPP-DIALOGG-LOL tLK0002"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "fLIPP-DIALOGG-LOL SCREEN",
+			"idle_name": "fLIPP-DIALOGG-LOL SCREEN0002"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "fLIPP-DIALOGG-LOL WOAH",
+			"idle_name": "fLIPP-DIALOGG-LOL WOAH0002"
+		},
+		{
+			"loop_name": "fLIPP-DIALOGG-LOL LOL",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "fLIPP-DIALOGG-LOL LOL0002",
+			"anim": "lol",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "flipp-dialogg-lol"
+}

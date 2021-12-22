@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "whoo that was fun",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "okaii! can me hav pizza pleas?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flipp-dialogg-lol"
+		},
+		{
+			"expression": "shocked",
+			"text": "uhm...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "yes",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "I shall now give you your pizza.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "FlIpP-DiAlOgG-LoL",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okaii then. *gives definitely not imaginary dolars*"
+		},
+		{
+			"expression": "talk",
+			"text": "*gives definintely imaginary pizza B]'*",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lol",
+			"text": "what is this.....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flipp-dialogg-lol"
+		},
+		{
+			"expression": "talk",
+			"text": "Air.",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "you shouldnt have done that, because now im mad and when im mad i transforming now......................................................................................................................",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "flipp-dialogg-lol"
+		},
+		{
+			"expression": "shocked",
+			"text": "AGGHHHH!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1111111!!!11!!!1!!111111123ye327ry7f8yew8huyfhwuyfhgeryfherufdiughniuerhgybguebghrvbhdvbfdvdfjvndfjvndfjvnjvfvnkfnvkjvnfkjvndvbnfuvjnhfivifenuveuindfvudfhvhvfduvhduvufhvuhvuvhdfuvhduvhe8rgergu8wourg8owuerogjerigjueriojgiowejrguwejgiwejgiugjijjuaigjgjughughuthguthgughurehgierhgeruhgrohiurbhyuhvsdfuhufhfuhfuehfyhqwieqwuoiuoewqiuoweqouewqiwqeoiuweoiuweoiuiueieeriieurddfgfgdfdfgfdgfgdfggdhfdkjgfdfdgfgdfgfgfgfgdfdggdfdfdfgkjhdfgkjdhfgkjhdfgkjdhfgkjhhdfgkjhfdgkjhdfgkjhdfgkjdhfgkhdfkjghdfjkghdjhjkgfdkjkdgdkjghhhhhhhhjidfdfufgydladksasdlfkjhasdkfljhasdlfkjhasdlkjf'hahcnfnfcehcrhcghfxyfrhfry7nvnvvnhvbbyrhv",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "flipp-dialogg-lol"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flipster-dialogg"
+		},
+		{
+			"expression": "talk",
+			"text": "die.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flipster-dialogg"
+		},
+		{
+			"expression": "talk",
+			"text": "No lol.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "then...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flipster-dialogg"
+		},
+		{
+			"expression": "talk",
+			"text": "Suffer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flipster-dialogg"
+		},
+		{
+			"expression": "shocked",
+			"text": ".",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "coolswag",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

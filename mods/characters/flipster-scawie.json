@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-170
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "flipsturr scawie idle"
+		},
+		{
+			"offsets": [
+				160,
+				-170
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "flipsturr scawie right"
+		},
+		{
+			"offsets": [
+				160,
+				-170
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "flipsturr scawie left"
+		},
+		{
+			"offsets": [
+				160,
+				-170
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "flipsturr scawie down"
+		},
+		{
+			"offsets": [
+				160,
+				-170
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "flipsturr scawie up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flipster scawie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "FLIPSTER",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		140
+	],
+	"camera_position": [
+		-200,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

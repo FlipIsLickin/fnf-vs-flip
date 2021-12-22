@@ -1,0 +1,11 @@
+{
+	
+	"image": "FLIPP_MENYOU-LOL",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "menyou flep idle",
+	"confirm_anim": "menyou flep idle"
+}

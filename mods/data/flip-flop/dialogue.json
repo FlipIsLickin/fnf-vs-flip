@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "lol",
+			"text": "Hello tiny blue haired pizza baby!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fLIPP-DIALOGG-LOL"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep bop buppie!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Can I get the pizza I ordered?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fLIPP-DIALOGG-LOL"
+		},
+		{
+			"expression": "shocked",
+			"text": "...Uhh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I wanna rap battle plez.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "But I dont wanna baby blue, I just want my pi-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fLIPP-DIALOGG-LOL"
+		},
+		{
+			"expression": "pissed",
+			"text": "BE{E{PBOP ME!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lol",
+			"text": "phien. >:3",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fLIPP-DIALOGG-LOL"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bet.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fLIPP-DIALOGG-LOL"
+		},
+		{
+			"expression": "excited",
+			"text": "controls are DF {space bar JK unless you changed them or if your using the four note dificulty slash easy dificulty it would be WASD up down left right or DFJK.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fLIPP-DIALOGG-LOL"
+		},
+		{
+			"expression": "shocked",
+			"text": "HUH?",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "bf"
+		}
+	]
+}

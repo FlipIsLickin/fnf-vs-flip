@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FLIPP_SPRITE-LOL.png"><SubTexture name="flep down0000" x="772" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep down0001" x="772" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep down0002" x="0" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0000" x="772" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0001" x="772" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0002" x="0" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0003" x="0" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0004" x="1544" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0005" x="1544" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0006" x="1544" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep idle0007" x="1544" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep left0000" x="772" y="1544" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep left0001" x="0" y="1544" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep left0002" x="0" y="1544" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep right0000" x="0" y="2316" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep right0001" x="0" y="2316" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep right0002" x="1544" y="1544" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep up0000" x="772" y="2316" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="flep up0001" x="1544" y="2316" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+</TextureAtlas>
